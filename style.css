@@ -53,10 +53,12 @@ header {
     background-size: cover; background-position: center;
     animation: sliderAnim 15s infinite;
 }
-.slide-1 { background-image: url('imgs/img12.jpeg'); animation-delay: 0s; }
+.slide-1 { background-image: url('imgs/img25.jpeg'); animation-delay: 0s; }
 .slide-2 { background-image: url('imgs/img16.jpeg'); animation-delay: 5s; }
 .slide-3 { background-image: url('imgs/img19.jpeg'); animation-delay: 10s; }
 .slide-4 { background-image: url('imgs/img20.jpeg'); animation-delay: 10s; }
+.slide-5 { background-image: url('imgs/img12.jpeg'); animation-delay: 10s; }
+
 
 
 @keyframes sliderAnim {
